@@ -1,4 +1,4 @@
-Product Name,Opinion ID,Sentiment,Opinion,Score
+product_name,opinion_id,sentiment,opinion,score
 Polish-Lithuanian Commonwealth,1,positive,"It pioneered a unique form of noble democracy in Europe.",5
 Polish-Lithuanian Commonwealth,2,positive,"The Commonwealth fostered significant religious tolerance for its era.",5
 Polish-Lithuanian Commonwealth,3,positive,"It was one of the largest political entities of 16th-century Europe.",5

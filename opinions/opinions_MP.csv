@@ -1,4 +1,4 @@
-product_name;opinion_id;sentiment;opinion(text);date
+product_name;opinion_id;sentiment;opinion;date
 Headphones;OP0001;positive;Fantastic product, highly recommend.;11.01.2025
 Monitor;OP0002;positive;Works perfectly so far.;30.03.2025
 Smartphone;OP0003;positive;Very satisfied with my purchase.;18.07.2025

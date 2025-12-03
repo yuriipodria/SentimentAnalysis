@@ -1,4 +1,4 @@
-Product Name,Opinion ID,Sentiment,Opinion,Score
+product_name,opinion_id,sentiment,opinion,score
 Mazda MX-5,1,positive,"It delivers a pure, lightweight driving experience.",5
 Mazda MX-5,2,positive,"The handling is exceptionally responsive.",5
 Mazda MX-5,3,positive,"It offers one of the best manual gearboxes in the industry.",5
